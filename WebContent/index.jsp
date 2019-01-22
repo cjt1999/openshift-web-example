@@ -8,5 +8,6 @@
 </head>
 <body>
 hello openshift!
+tell me.
 </body>
 </html>
